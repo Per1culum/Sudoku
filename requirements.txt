@@ -1,0 +1,5 @@
+import random
+from tkinter.messagebox import showinfo
+import pygame
+from pygame.color import THECOLORS as COLORS
+from tkinter import *
